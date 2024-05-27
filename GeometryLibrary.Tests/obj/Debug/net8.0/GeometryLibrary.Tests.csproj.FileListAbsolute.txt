@@ -1,8 +1,5 @@
 C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_GeometryLibrary.Tests
 C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\bin\Debug\net8.0\testhost.dll
-C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\bin\Debug\net8.0\Task1.deps.json
-C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\bin\Debug\net8.0\Task1.runtimeconfig.json
-C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\bin\Debug\net8.0\Task1.exe
 C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\bin\Debug\net8.0\testhost.exe
 C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
@@ -103,3 +100,4 @@ C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\obj\Debug\net8.0\refint\Geom
 C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\obj\Debug\net8.0\GeometryLibrary.Tests.pdb
 C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\obj\Debug\net8.0\GeometryLibrary.Tests.genruntimeconfig.cache
 C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\obj\Debug\net8.0\ref\GeometryLibrary.Tests.dll
+C:\Users\Karma\Desktop\C#\Job\GeometryLibrary.Tests\obj\Debug\net8.0\GeometryLibrary.Tests.sourcelink.json
