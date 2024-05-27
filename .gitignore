@@ -1,3 +1,5 @@
 .vscode
 Task1/bin/Debug/
 Task1/obj/Debug/
+GeometryLibrary.Tests/bin/Debug/
+GeometryLibrary.Tests/obj/Debug/
